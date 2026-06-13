@@ -4,7 +4,7 @@ A simple web-based calculator built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Live Demo: [Calculator Demo](https://github.com/Rahulkumar0745/CodSoft/Calculator)
+Live Demo: [Calculator Demo](https://rahulkumar0745.github.io/CodSoft/Calculator/)
 
 ## Description
 
