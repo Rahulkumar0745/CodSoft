@@ -4,7 +4,7 @@ A responsive landing page built with HTML and CSS.
 
 ## Demo
 
-Live Demo: [Landing Page Demo]https://rahulkumar0745.github.io/CodSoft/LandingPage/
+Live Demo: [Landing Page Demo](https://rahulkumar0745.github.io/CodSoft/LandingPage/)
 
 ## Description
 
